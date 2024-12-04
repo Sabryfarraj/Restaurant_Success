@@ -1,0 +1,11 @@
+.git
+.gitignore
+.gitattributes
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.ipynb
+README.md
+zomato.rar
