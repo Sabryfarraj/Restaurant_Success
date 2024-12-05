@@ -12,7 +12,6 @@ COPY Restaurant_Success.py .
 COPY decision_tree_pipeline.pkl .
 COPY min_max_values.pkl .
 COPY unique_values.pkl .
-COPY streamlit_app_link.txt .
 
 # Install system dependencies
 RUN apt-get update && apt-get install -y \
